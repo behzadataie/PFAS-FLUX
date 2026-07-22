@@ -1,0 +1,19 @@
+plane_id,group_id,dominant_driver_proxy,dominant_log10_range_score,second_driver_proxy,second_log10_range_score,note
+CP1,G1,hydraulic conductivity K,2.0,hydraulic gradient,1.0,screening proxy only; use formal sensitivity analysis for real decisions
+CP1,G2,hydraulic conductivity K,2.0,hydraulic gradient,1.0,screening proxy only; use formal sensitivity analysis for real decisions
+CP1,G3,hydraulic conductivity K,2.0,hydraulic gradient,1.0,screening proxy only; use formal sensitivity analysis for real decisions
+CP1,G4,hydraulic conductivity K,2.0,hydraulic gradient,1.0,screening proxy only; use formal sensitivity analysis for real decisions
+CP1,G5,hydraulic conductivity K,2.0,hydraulic gradient,1.0,screening proxy only; use formal sensitivity analysis for real decisions
+CP1,G6,hydraulic conductivity K,2.0,hydraulic gradient,1.0,screening proxy only; use formal sensitivity analysis for real decisions
+CP2,G1,hydraulic conductivity K,1.6989700043360187,hydraulic gradient,1.0,screening proxy only; use formal sensitivity analysis for real decisions
+CP2,G2,hydraulic conductivity K,1.6989700043360187,hydraulic gradient,1.0,screening proxy only; use formal sensitivity analysis for real decisions
+CP2,G3,hydraulic conductivity K,1.6989700043360187,hydraulic gradient,1.0,screening proxy only; use formal sensitivity analysis for real decisions
+CP2,G4,hydraulic conductivity K,1.6989700043360187,hydraulic gradient,1.0,screening proxy only; use formal sensitivity analysis for real decisions
+CP2,G5,hydraulic conductivity K,1.6989700043360187,hydraulic gradient,1.0,screening proxy only; use formal sensitivity analysis for real decisions
+CP2,G6,hydraulic conductivity K,1.6989700043360187,hydraulic gradient,1.0,screening proxy only; use formal sensitivity analysis for real decisions
+CP3,G1,hydraulic conductivity K,1.7781512503836436,hydraulic gradient,1.0969100130080565,screening proxy only; use formal sensitivity analysis for real decisions
+CP3,G2,hydraulic conductivity K,1.7781512503836436,hydraulic gradient,1.0969100130080565,screening proxy only; use formal sensitivity analysis for real decisions
+CP3,G3,hydraulic conductivity K,1.7781512503836436,hydraulic gradient,1.0969100130080565,screening proxy only; use formal sensitivity analysis for real decisions
+CP3,G4,hydraulic conductivity K,1.7781512503836436,hydraulic gradient,1.0969100130080565,screening proxy only; use formal sensitivity analysis for real decisions
+CP3,G5,hydraulic conductivity K,1.7781512503836436,hydraulic gradient,1.0969100130080565,screening proxy only; use formal sensitivity analysis for real decisions
+CP3,G6,hydraulic conductivity K,1.7781512503836436,hydraulic gradient,1.0969100130080565,screening proxy only; use formal sensitivity analysis for real decisions

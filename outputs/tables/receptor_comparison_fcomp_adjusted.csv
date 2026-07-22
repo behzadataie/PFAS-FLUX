@@ -1,0 +1,5 @@
+receptor_id,receptor_type,linked_plane_or_node,group_id,load_source,load_type,current_load_g_d,allowable_load_g_d,load_ratio,exceeds_placeholder_allowable,warning
+R1,groundwater supply bore,GW07,G3,extracted-water load,F_comp adjusted scenario,0.00612,2e-05,305.99999999999994,True,allowable load uses placeholder synthetic criterion; not a regulatory decision
+R2,creek / wetland receptor,SW04,G3,surface-water or stormwater load,F_comp adjusted scenario,0.342,0.0035,97.71428571428572,True,allowable load uses placeholder synthetic criterion; not a regulatory decision
+R3,estuary / coastal discharge zone,CP3,G3,control-plane mass discharge,F_comp adjusted scenario,0.0152208,0.007200000000000001,2.114,True,allowable load uses placeholder synthetic criterion; not a regulatory decision
+R4,stormwater event pathway,SW05,G3,surface-water or stormwater load,F_comp adjusted scenario,0.0,0.005,0.0,False,allowable load uses placeholder synthetic criterion; not a regulatory decision

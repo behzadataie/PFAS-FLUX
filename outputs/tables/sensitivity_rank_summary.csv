@@ -1,0 +1,8 @@
+output,driver,spearman_r,abs_spearman_r,n_realizations,note
+R3 load ratio,receptor flow,-0.6033151047211511,0.6033151047211511,10000,screening data-priority metric; not a formal variance decomposition
+R3 load ratio,hydraulic capacity,0.569375897117759,0.569375897117759,10000,screening data-priority metric; not a formal variance decomposition
+R3 load ratio,PFOS+PFHxS concentration,0.41699098655390987,0.41699098655390987,10000,screening data-priority metric; not a formal variance decomposition
+R3 load ratio,normal gradient,0.23031041807910416,0.23031041807910416,10000,screening data-priority metric; not a formal variance decomposition
+R3 load ratio,F_comp factor,0.16819264138992643,0.16819264138992643,10000,screening data-priority metric; not a formal variance decomposition
+R3 load ratio,mixing factor,-0.1638545306945453,0.1638545306945453,10000,screening data-priority metric; not a formal variance decomposition
+R3 load ratio,saturated thickness,0.14224415163044152,0.14224415163044152,10000,screening data-priority metric; not a formal variance decomposition

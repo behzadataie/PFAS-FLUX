@@ -1,0 +1,40 @@
+{
+  "input_dir": "D:\\BAA\\PFAS\\TechNote_PFAS_HJ\\PFAS-FLUX\\data\\synthetic_case_archive",
+  "output_dir": "D:\\BAA\\PFAS\\TechNote_PFAS_HJ\\PFAS-FLUX\\outputs",
+  "selected_group_id": "G3",
+  "n_realizations": 10000,
+  "seed": 20260703,
+  "concentration_low_multiplier": 0.5,
+  "concentration_high_multiplier": 2.0,
+  "receptor_load_type": "F_comp adjusted scenario",
+  "tables_written": [
+    "archive_basis_audit.csv",
+    "control_plane_analyte_summary.csv",
+    "control_plane_cell_results.csv",
+    "control_plane_group_summary.csv",
+    "receptor_allowable_loads.csv",
+    "receptor_comparison_fcomp_adjusted.csv",
+    "receptor_comparison_measured.csv",
+    "sensitivity_rank_summary.csv",
+    "surface_water_analyte_loads.csv",
+    "surface_water_group_loads.csv",
+    "uncertainty_control_plane_analyte_summary.csv",
+    "uncertainty_control_plane_group_summary.csv",
+    "uncertainty_driver_proxy.csv",
+    "uncertainty_receptor_summary.csv",
+    "uncertainty_surface_water_group_summary.csv",
+    "well_group_loads.csv"
+  ],
+  "figures_written": [
+    "figure_group_G3_mass_discharge_by_plane.png",
+    "figure_group_G3_mass_discharge_by_plane.svg",
+    "figure_receptor_exceedance_probability.png",
+    "figure_receptor_exceedance_probability.svg",
+    "figure_stacked_analyte_mass_discharge_by_plane.png",
+    "figure_stacked_analyte_mass_discharge_by_plane.svg",
+    "figure_uncertainty_G3_by_plane.png",
+    "figure_uncertainty_G3_by_plane.svg"
+  ],
+  "unit_convention": "C_ug_L * K_m_d * gradient * area_m2 * 1e-3 = Md_g_d",
+  "important_warning": "The receptor criterion in the synthetic archive is a placeholder. Replace it before any real decision."
+}

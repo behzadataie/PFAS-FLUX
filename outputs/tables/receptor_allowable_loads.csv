@@ -1,0 +1,13 @@
+receptor_id,receptor_type,linked_plane_or_node,scenario,criterion_ng_L,criterion_ug_L,Q_m3_d,mixing_factor,allowable_load_g_d,warning
+R1,groundwater supply bore,GW07,low,10.0,0.01,0.5,1.0,5e-06,criterion is a placeholder in the synthetic archive; replace before real use
+R1,groundwater supply bore,GW07,central,10.0,0.01,2.0,1.0,2e-05,criterion is a placeholder in the synthetic archive; replace before real use
+R1,groundwater supply bore,GW07,high,10.0,0.01,10.0,1.0,0.0001,criterion is a placeholder in the synthetic archive; replace before real use
+R2,creek / wetland receptor,SW04,low,10.0,0.01,80.0,0.3,0.00024,criterion is a placeholder in the synthetic archive; replace before real use
+R2,creek / wetland receptor,SW04,central,10.0,0.01,500.0,0.7,0.0035,criterion is a placeholder in the synthetic archive; replace before real use
+R2,creek / wetland receptor,SW04,high,10.0,0.01,2500.0,1.0,0.025,criterion is a placeholder in the synthetic archive; replace before real use
+R3,estuary / coastal discharge zone,CP3,low,10.0,0.01,200.0,0.5,0.001,criterion is a placeholder in the synthetic archive; replace before real use
+R3,estuary / coastal discharge zone,CP3,central,10.0,0.01,900.0,0.8,0.007200000000000001,criterion is a placeholder in the synthetic archive; replace before real use
+R3,estuary / coastal discharge zone,CP3,high,10.0,0.01,4000.0,1.0,0.04,criterion is a placeholder in the synthetic archive; replace before real use
+R4,stormwater event pathway,SW05,low,10.0,0.01,50.0,1.0,0.0005,criterion is a placeholder in the synthetic archive; replace before real use
+R4,stormwater event pathway,SW05,central,10.0,0.01,500.0,1.0,0.005,criterion is a placeholder in the synthetic archive; replace before real use
+R4,stormwater event pathway,SW05,high,10.0,0.01,3000.0,1.0,0.03,criterion is a placeholder in the synthetic archive; replace before real use

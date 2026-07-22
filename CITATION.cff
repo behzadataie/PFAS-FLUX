@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use PFAS-FLUX, please cite the accompanying technical note and this software archive."
+title: "PFAS-FLUX: An open control-plane workflow for PFAS mass discharge and receptor-load uncertainty in groundwater"
+version: "0.3.0"
+date-released: "2026-07-06"
+authors:
+  - family-names: "Ataie-Ashtiani"
+    given-names: "Behzad"
+abstract: "A reproducible Python workflow for compound-explicit PFAS groundwater mass-discharge calculations, receptor-load uncertainty and data-priority screening from sparse monitoring data."
+repository-code: "https://github.com/behzadataie/PFAS-FLUX"
+license: "MIT"
+keywords:
+  - PFAS
+  - groundwater
+  - mass discharge
+  - mass flux
+  - uncertainty
+  - control plane
+  - reproducible workflow

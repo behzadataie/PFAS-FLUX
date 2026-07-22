@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pfas-flux"
+version = "0.3.0"
+description = "PFAS control-plane mass-discharge workflow for groundwater technical note demonstration"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{name = "PFAS-FLUX authors"}]
+license = {text = "MIT"}
+keywords = ["PFAS", "groundwater", "mass discharge", "mass flux", "uncertainty"]
+dependencies = [
+    "numpy>=1.24",
+    "pandas>=2.0",
+    "matplotlib>=3.7",
+]
+
+[project.optional-dependencies]
+test = ["pytest>=7.0"]
+
+[tool.setuptools]
+packages = ["pfas_flux"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

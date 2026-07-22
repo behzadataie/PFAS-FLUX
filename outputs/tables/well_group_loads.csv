@@ -1,0 +1,7 @@
+well_id,receptor_id,group_id,included_analytes,assumed_extraction_m3_d,measured_group_concentration_ug_L,measured_extracted_load_g_d,F_comp_central,F_comp_adjusted_extracted_load_g_d,note
+GW07,R1,G1,PFOS,2.0,2.0,0.004,1.0,0.004,"extracted-water load, not a control-plane mass discharge"
+GW07,R1,G2,PFHxS,2.0,0.55,0.0011,1.0,0.0011,"extracted-water load, not a control-plane mass discharge"
+GW07,R1,G3,PFOS;PFHxS,2.0,2.55,0.0050999999999999995,1.2,0.00612,"extracted-water load, not a control-plane mass discharge"
+GW07,R1,G4,PFOS;PFHxS;PFOA;PFBA;PFBS;6:2 FTS,2.0,5.6,0.0112,1.3,0.01456,"extracted-water load, not a control-plane mass discharge"
+GW07,R1,G5,PFBA;PFBS,2.0,2.3,0.0046,1.0,0.0046,"extracted-water load, not a control-plane mass discharge"
+GW07,R1,G6,6:2 FTS,2.0,0.4,0.0008,2.0,0.0016,"extracted-water load, not a control-plane mass discharge"

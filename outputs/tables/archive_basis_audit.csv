@@ -1,0 +1,90 @@
+table,basis_column,basis_label,count
+analyte_groups,F_comp_central_basis,synthetic assumption,6
+analyte_groups,F_comp_high_basis,synthetic assumption,6
+analyte_groups,F_comp_low_basis,synthetic assumption,6
+analyte_groups,TOP_available_basis,synthetic assumption,6
+analyte_groups,excluded_information_basis,guidance/literature derived,6
+analyte_groups,group_id_basis,synthetic assumption,6
+analyte_groups,included_analytes_basis,guidance/literature derived,6
+analyte_groups,non_detect_rule_basis,synthetic assumption,6
+analyte_groups,reporting_purpose_basis,guidance/literature derived,6
+assumed_K_zones,K_central_m_d_basis,literature range,4
+assumed_K_zones,K_high_m_d_basis,literature range,4
+assumed_K_zones,K_low_m_d_basis,literature range,4
+assumed_K_zones,effective_thickness_central_m_basis,synthetic assumption,4
+assumed_K_zones,effective_thickness_high_m_basis,synthetic assumption,4
+assumed_K_zones,effective_thickness_low_m_basis,synthetic assumption,4
+assumed_K_zones,gradient_central_basis,synthetic assumption,4
+assumed_K_zones,gradient_high_basis,synthetic assumption,4
+assumed_K_zones,gradient_low_basis,synthetic assumption,4
+assumed_K_zones,hydrostratigraphic_role_basis,synthetic assumption,4
+assumed_K_zones,k_zone_id_basis,synthetic assumption,4
+control_plane_cells,FTS_6_2_ug_L_basis,"public-range anchor, modified",9
+control_plane_cells,FTS_6_2_ug_L_basis,synthetic assumption,3
+control_plane_cells,PFBA_ug_L_basis,synthetic assumption,12
+control_plane_cells,PFBS_ug_L_basis,synthetic assumption,12
+control_plane_cells,PFHxS_ug_L_basis,"public-range anchor, modified",9
+control_plane_cells,PFHxS_ug_L_basis,synthetic assumption,3
+control_plane_cells,PFOA_ug_L_basis,"public-range anchor, modified",9
+control_plane_cells,PFOA_ug_L_basis,synthetic assumption,3
+control_plane_cells,PFOS_ug_L_basis,"public-range anchor, modified",9
+control_plane_cells,PFOS_ug_L_basis,synthetic assumption,3
+control_plane_cells,area_m2_basis,synthetic assumption,12
+control_plane_cells,cell_id_basis,synthetic assumption,12
+control_plane_cells,gradient_normal_central_basis,synthetic assumption,12
+control_plane_cells,k_zone_id_basis,synthetic assumption,12
+control_plane_cells,plane_id_basis,synthetic assumption,12
+control_plane_cells,plane_type_basis,synthetic assumption,12
+control_plane_cells,x_m_basis,synthetic assumption,12
+control_plane_cells,y_max_m_basis,synthetic assumption,12
+control_plane_cells,y_min_m_basis,synthetic assumption,12
+control_plane_cells,z_bottom_m_bgl_basis,synthetic assumption,12
+control_plane_cells,z_top_m_bgl_basis,synthetic assumption,12
+receptor_flows,Q_central_m3_d_basis,synthetic assumption,4
+receptor_flows,Q_high_m3_d_basis,synthetic assumption,4
+receptor_flows,Q_low_m3_d_basis,synthetic assumption,4
+receptor_flows,criterion_placeholder_PFOS_plus_PFHxS_ng_L_basis,synthetic assumption - user must replace with current applicable criterion,4
+receptor_flows,linked_plane_or_node_basis,synthetic assumption,4
+receptor_flows,mixing_factor_central_basis,synthetic assumption,4
+receptor_flows,mixing_factor_high_basis,synthetic assumption,4
+receptor_flows,mixing_factor_low_basis,synthetic assumption,4
+receptor_flows,receptor_id_basis,synthetic assumption,4
+receptor_flows,receptor_type_basis,synthetic assumption,4
+source_areas,active_end_year_basis,"public-range anchor, modified",6
+source_areas,active_start_year_basis,"public-range anchor, modified",6
+source_areas,area_m2_basis,synthetic assumption,6
+source_areas,relative_source_strength_basis,synthetic assumption,6
+source_areas,release_mode_basis,"public-range anchor, modified",6
+source_areas,source_id_basis,synthetic assumption,6
+source_areas,source_type_basis,"public-range anchor, modified",6
+source_areas,vadose_memory_class_basis,literature range,6
+source_areas,x_m_basis,synthetic assumption,6
+source_areas,y_m_basis,synthetic assumption,6
+surface_water_nodes,FTS_6_2_ug_L_basis,"public-range anchor, modified",5
+surface_water_nodes,PFBA_ug_L_basis,synthetic assumption,5
+surface_water_nodes,PFBS_ug_L_basis,synthetic assumption,5
+surface_water_nodes,PFHxS_ug_L_basis,"public-range anchor, modified",5
+surface_water_nodes,PFOA_ug_L_basis,"public-range anchor, modified",5
+surface_water_nodes,PFOS_ug_L_basis,"public-range anchor, modified",5
+surface_water_nodes,flow_central_m3_d_basis,synthetic assumption,5
+surface_water_nodes,flow_high_m3_d_basis,synthetic assumption,5
+surface_water_nodes,flow_low_m3_d_basis,synthetic assumption,5
+surface_water_nodes,node_id_basis,synthetic assumption,5
+surface_water_nodes,node_type_basis,synthetic assumption,5
+surface_water_nodes,x_m_basis,synthetic assumption,5
+surface_water_nodes,y_m_basis,synthetic assumption,5
+wells,FTS_6_2_ug_L_basis,"public-range anchor, modified",8
+wells,PFBA_ug_L_basis,synthetic assumption,8
+wells,PFBS_ug_L_basis,synthetic assumption,8
+wells,PFHxS_ug_L_basis,"public-range anchor, modified",8
+wells,PFOA_ug_L_basis,"public-range anchor, modified",8
+wells,PFOS_ug_L_basis,"public-range anchor, modified",8
+wells,hydraulic_head_m_local_basis,synthetic assumption,8
+wells,k_zone_id_basis,synthetic assumption,8
+wells,role_basis,synthetic assumption,8
+wells,scenario_basis,synthetic assumption,8
+wells,screen_bottom_m_bgl_basis,synthetic assumption,8
+wells,screen_top_m_bgl_basis,synthetic assumption,8
+wells,well_id_basis,synthetic assumption,8
+wells,x_m_basis,synthetic assumption,8
+wells,y_m_basis,synthetic assumption,8

@@ -1,0 +1,13 @@
+{
+  "input_dir": "data/synthetic_case_archive",
+  "output_dir": "outputs",
+  "selected_group_id": "G3",
+  "selected_group_description": "PFOS + PFHxS legacy AFFF-relevant demonstration group in the synthetic archive",
+  "n_realizations": 10000,
+  "seed": 20260703,
+  "concentration_low_multiplier": 0.5,
+  "concentration_high_multiplier": 2.0,
+  "use_fcomp_adjusted_for_receptors": true,
+  "unit_convention": "C_ug_L * K_m_d * gradient * area_m2 * 1e-3 = Md_g_d",
+  "important_warning": "The receptor criterion in the synthetic archive is a placeholder. Replace it before real use."
+}

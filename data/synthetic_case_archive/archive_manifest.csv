@@ -1,0 +1,10 @@
+file_name,description,location_or_geography,data_status
+analyte_groups.csv,"PFAS analyte groups, exclusions, non-detect rules and completeness factors.",local synthetic coordinates only,not a site-specific dataset
+archive_manifest.csv,File inventory and data-status statement for the synthetic archive.,local synthetic coordinates only,not a site-specific dataset
+assumed_K_zones.csv,"Hydraulic conductivity, gradient and thickness ranges for the synthetic aquifer zones.",local synthetic coordinates only,not a site-specific dataset
+control_plane_cells.csv,Control-plane cell geometry and central concentration assignments for flux calculations.,local synthetic coordinates only,not a site-specific dataset
+example_mass_discharge_results.csv,"Derived central-case example results, included for QA of unit conversion.",local synthetic coordinates only,not a site-specific dataset
+receptor_flows.csv,Receptor-flow assumptions and placeholder allowable-load inputs; user must replace criteria.,local synthetic coordinates only,not a site-specific dataset
+source_areas.csv,Synthetic source areas derived from public AFFF source archetypes and modified assumptions.,local synthetic coordinates only,not a site-specific dataset
+surface_water_nodes.csv,"Synthetic creek, pond, wetland and stormwater nodes with flows and PFAS concentrations.",local synthetic coordinates only,not a site-specific dataset
+wells.csv,Synthetic groundwater monitoring wells and bore/receptor points with paired basis columns.,local synthetic coordinates only,not a site-specific dataset

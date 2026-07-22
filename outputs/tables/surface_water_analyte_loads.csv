@@ -1,0 +1,91 @@
+node_id,node_type,scenario,analyte,concentration_ug_L,flow_m3_per_supplied_time_unit,load_g_per_supplied_time_unit,unit_note
+SW01,upstream creek,low,PFOS,0.04,25,0.001,g/d if flow is m3/d; g/event if flow is an event volume
+SW01,upstream creek,central,PFOS,0.04,80,0.0032,g/d if flow is m3/d; g/event if flow is an event volume
+SW01,upstream creek,high,PFOS,0.04,450,0.018000000000000002,g/d if flow is m3/d; g/event if flow is an event volume
+SW01,upstream creek,low,PFHxS,0.01,25,0.00025,g/d if flow is m3/d; g/event if flow is an event volume
+SW01,upstream creek,central,PFHxS,0.01,80,0.0008,g/d if flow is m3/d; g/event if flow is an event volume
+SW01,upstream creek,high,PFHxS,0.01,450,0.0045000000000000005,g/d if flow is m3/d; g/event if flow is an event volume
+SW01,upstream creek,low,PFOA,0.02,25,0.0005,g/d if flow is m3/d; g/event if flow is an event volume
+SW01,upstream creek,central,PFOA,0.02,80,0.0016,g/d if flow is m3/d; g/event if flow is an event volume
+SW01,upstream creek,high,PFOA,0.02,450,0.009000000000000001,g/d if flow is m3/d; g/event if flow is an event volume
+SW01,upstream creek,low,PFBA,0.08,25,0.002,g/d if flow is m3/d; g/event if flow is an event volume
+SW01,upstream creek,central,PFBA,0.08,80,0.0064,g/d if flow is m3/d; g/event if flow is an event volume
+SW01,upstream creek,high,PFBA,0.08,450,0.036000000000000004,g/d if flow is m3/d; g/event if flow is an event volume
+SW01,upstream creek,low,PFBS,0.04,25,0.001,g/d if flow is m3/d; g/event if flow is an event volume
+SW01,upstream creek,central,PFBS,0.04,80,0.0032,g/d if flow is m3/d; g/event if flow is an event volume
+SW01,upstream creek,high,PFBS,0.04,450,0.018000000000000002,g/d if flow is m3/d; g/event if flow is an event volume
+SW01,upstream creek,low,6:2 FTS,0.0,25,0.0,g/d if flow is m3/d; g/event if flow is an event volume
+SW01,upstream creek,central,6:2 FTS,0.0,80,0.0,g/d if flow is m3/d; g/event if flow is an event volume
+SW01,upstream creek,high,6:2 FTS,0.0,450,0.0,g/d if flow is m3/d; g/event if flow is an event volume
+SW02,headwater pond / drainage node,low,PFOS,7.0,40,0.28,g/d if flow is m3/d; g/event if flow is an event volume
+SW02,headwater pond / drainage node,central,PFOS,7.0,120,0.84,g/d if flow is m3/d; g/event if flow is an event volume
+SW02,headwater pond / drainage node,high,PFOS,7.0,800,5.6000000000000005,g/d if flow is m3/d; g/event if flow is an event volume
+SW02,headwater pond / drainage node,low,PFHxS,2.5,40,0.1,g/d if flow is m3/d; g/event if flow is an event volume
+SW02,headwater pond / drainage node,central,PFHxS,2.5,120,0.3,g/d if flow is m3/d; g/event if flow is an event volume
+SW02,headwater pond / drainage node,high,PFHxS,2.5,800,2.0,g/d if flow is m3/d; g/event if flow is an event volume
+SW02,headwater pond / drainage node,low,PFOA,0.9,40,0.036000000000000004,g/d if flow is m3/d; g/event if flow is an event volume
+SW02,headwater pond / drainage node,central,PFOA,0.9,120,0.108,g/d if flow is m3/d; g/event if flow is an event volume
+SW02,headwater pond / drainage node,high,PFOA,0.9,800,0.72,g/d if flow is m3/d; g/event if flow is an event volume
+SW02,headwater pond / drainage node,low,PFBA,1.5,40,0.06,g/d if flow is m3/d; g/event if flow is an event volume
+SW02,headwater pond / drainage node,central,PFBA,1.5,120,0.18,g/d if flow is m3/d; g/event if flow is an event volume
+SW02,headwater pond / drainage node,high,PFBA,1.5,800,1.2,g/d if flow is m3/d; g/event if flow is an event volume
+SW02,headwater pond / drainage node,low,PFBS,0.4,40,0.016,g/d if flow is m3/d; g/event if flow is an event volume
+SW02,headwater pond / drainage node,central,PFBS,0.4,120,0.048,g/d if flow is m3/d; g/event if flow is an event volume
+SW02,headwater pond / drainage node,high,PFBS,0.4,800,0.32,g/d if flow is m3/d; g/event if flow is an event volume
+SW02,headwater pond / drainage node,low,6:2 FTS,1.8,40,0.07200000000000001,g/d if flow is m3/d; g/event if flow is an event volume
+SW02,headwater pond / drainage node,central,6:2 FTS,1.8,120,0.216,g/d if flow is m3/d; g/event if flow is an event volume
+SW02,headwater pond / drainage node,high,6:2 FTS,1.8,800,1.44,g/d if flow is m3/d; g/event if flow is an event volume
+SW03,mid-catchment creek,low,PFOS,1.5,60,0.09,g/d if flow is m3/d; g/event if flow is an event volume
+SW03,mid-catchment creek,central,PFOS,1.5,250,0.375,g/d if flow is m3/d; g/event if flow is an event volume
+SW03,mid-catchment creek,high,PFOS,1.5,1500,2.25,g/d if flow is m3/d; g/event if flow is an event volume
+SW03,mid-catchment creek,low,PFHxS,0.45,60,0.027,g/d if flow is m3/d; g/event if flow is an event volume
+SW03,mid-catchment creek,central,PFHxS,0.45,250,0.1125,g/d if flow is m3/d; g/event if flow is an event volume
+SW03,mid-catchment creek,high,PFHxS,0.45,1500,0.675,g/d if flow is m3/d; g/event if flow is an event volume
+SW03,mid-catchment creek,low,PFOA,0.25,60,0.015,g/d if flow is m3/d; g/event if flow is an event volume
+SW03,mid-catchment creek,central,PFOA,0.25,250,0.0625,g/d if flow is m3/d; g/event if flow is an event volume
+SW03,mid-catchment creek,high,PFOA,0.25,1500,0.375,g/d if flow is m3/d; g/event if flow is an event volume
+SW03,mid-catchment creek,low,PFBA,0.9,60,0.054,g/d if flow is m3/d; g/event if flow is an event volume
+SW03,mid-catchment creek,central,PFBA,0.9,250,0.225,g/d if flow is m3/d; g/event if flow is an event volume
+SW03,mid-catchment creek,high,PFBA,0.9,1500,1.35,g/d if flow is m3/d; g/event if flow is an event volume
+SW03,mid-catchment creek,low,PFBS,0.3,60,0.018000000000000002,g/d if flow is m3/d; g/event if flow is an event volume
+SW03,mid-catchment creek,central,PFBS,0.3,250,0.075,g/d if flow is m3/d; g/event if flow is an event volume
+SW03,mid-catchment creek,high,PFBS,0.3,1500,0.45,g/d if flow is m3/d; g/event if flow is an event volume
+SW03,mid-catchment creek,low,6:2 FTS,0.25,60,0.015,g/d if flow is m3/d; g/event if flow is an event volume
+SW03,mid-catchment creek,central,6:2 FTS,0.25,250,0.0625,g/d if flow is m3/d; g/event if flow is an event volume
+SW03,mid-catchment creek,high,6:2 FTS,0.25,1500,0.375,g/d if flow is m3/d; g/event if flow is an event volume
+SW04,receptor creek / wetland,low,PFOS,0.45,80,0.036000000000000004,g/d if flow is m3/d; g/event if flow is an event volume
+SW04,receptor creek / wetland,central,PFOS,0.45,500,0.225,g/d if flow is m3/d; g/event if flow is an event volume
+SW04,receptor creek / wetland,high,PFOS,0.45,2500,1.125,g/d if flow is m3/d; g/event if flow is an event volume
+SW04,receptor creek / wetland,low,PFHxS,0.12,80,0.0096,g/d if flow is m3/d; g/event if flow is an event volume
+SW04,receptor creek / wetland,central,PFHxS,0.12,500,0.06,g/d if flow is m3/d; g/event if flow is an event volume
+SW04,receptor creek / wetland,high,PFHxS,0.12,2500,0.3,g/d if flow is m3/d; g/event if flow is an event volume
+SW04,receptor creek / wetland,low,PFOA,0.1,80,0.008,g/d if flow is m3/d; g/event if flow is an event volume
+SW04,receptor creek / wetland,central,PFOA,0.1,500,0.05,g/d if flow is m3/d; g/event if flow is an event volume
+SW04,receptor creek / wetland,high,PFOA,0.1,2500,0.25,g/d if flow is m3/d; g/event if flow is an event volume
+SW04,receptor creek / wetland,low,PFBA,0.5,80,0.04,g/d if flow is m3/d; g/event if flow is an event volume
+SW04,receptor creek / wetland,central,PFBA,0.5,500,0.25,g/d if flow is m3/d; g/event if flow is an event volume
+SW04,receptor creek / wetland,high,PFBA,0.5,2500,1.25,g/d if flow is m3/d; g/event if flow is an event volume
+SW04,receptor creek / wetland,low,PFBS,0.2,80,0.016,g/d if flow is m3/d; g/event if flow is an event volume
+SW04,receptor creek / wetland,central,PFBS,0.2,500,0.1,g/d if flow is m3/d; g/event if flow is an event volume
+SW04,receptor creek / wetland,high,PFBS,0.2,2500,0.5,g/d if flow is m3/d; g/event if flow is an event volume
+SW04,receptor creek / wetland,low,6:2 FTS,0.05,80,0.004,g/d if flow is m3/d; g/event if flow is an event volume
+SW04,receptor creek / wetland,central,6:2 FTS,0.05,500,0.025,g/d if flow is m3/d; g/event if flow is an event volume
+SW04,receptor creek / wetland,high,6:2 FTS,0.05,2500,0.125,g/d if flow is m3/d; g/event if flow is an event volume
+SW05,stormwater drain outlet,low,PFOS,2.8,0,0.0,g/d if flow is m3/d; g/event if flow is an event volume
+SW05,stormwater drain outlet,central,PFOS,2.8,0,0.0,g/d if flow is m3/d; g/event if flow is an event volume
+SW05,stormwater drain outlet,high,PFOS,2.8,3000,8.4,g/d if flow is m3/d; g/event if flow is an event volume
+SW05,stormwater drain outlet,low,PFHxS,0.8,0,0.0,g/d if flow is m3/d; g/event if flow is an event volume
+SW05,stormwater drain outlet,central,PFHxS,0.8,0,0.0,g/d if flow is m3/d; g/event if flow is an event volume
+SW05,stormwater drain outlet,high,PFHxS,0.8,3000,2.4,g/d if flow is m3/d; g/event if flow is an event volume
+SW05,stormwater drain outlet,low,PFOA,0.35,0,0.0,g/d if flow is m3/d; g/event if flow is an event volume
+SW05,stormwater drain outlet,central,PFOA,0.35,0,0.0,g/d if flow is m3/d; g/event if flow is an event volume
+SW05,stormwater drain outlet,high,PFOA,0.35,3000,1.05,g/d if flow is m3/d; g/event if flow is an event volume
+SW05,stormwater drain outlet,low,PFBA,1.2,0,0.0,g/d if flow is m3/d; g/event if flow is an event volume
+SW05,stormwater drain outlet,central,PFBA,1.2,0,0.0,g/d if flow is m3/d; g/event if flow is an event volume
+SW05,stormwater drain outlet,high,PFBA,1.2,3000,3.6,g/d if flow is m3/d; g/event if flow is an event volume
+SW05,stormwater drain outlet,low,PFBS,0.45,0,0.0,g/d if flow is m3/d; g/event if flow is an event volume
+SW05,stormwater drain outlet,central,PFBS,0.45,0,0.0,g/d if flow is m3/d; g/event if flow is an event volume
+SW05,stormwater drain outlet,high,PFBS,0.45,3000,1.35,g/d if flow is m3/d; g/event if flow is an event volume
+SW05,stormwater drain outlet,low,6:2 FTS,0.6,0,0.0,g/d if flow is m3/d; g/event if flow is an event volume
+SW05,stormwater drain outlet,central,6:2 FTS,0.6,0,0.0,g/d if flow is m3/d; g/event if flow is an event volume
+SW05,stormwater drain outlet,high,6:2 FTS,0.6,3000,1.8,g/d if flow is m3/d; g/event if flow is an event volume
